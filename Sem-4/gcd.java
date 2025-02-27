@@ -1,4 +1,5 @@
-package BasicPrograms;
+
+
 public class gcd {
     static int calcGcd(int m, int n){
         if(m == 0 || n == 0) {
