@@ -1,7 +1,9 @@
 {
     "java.project.sourcePaths": [
-        "StringsFirstAssignment",
         "BabyNames",
-        "Sem-4"
-    ]
+        "Sem-4",
+        "StringsFirstAssignment",
+        "Sem_4"
+    ],
+    "java.project.referencedLibraries": []
 }

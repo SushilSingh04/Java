@@ -1,3 +1,5 @@
+package basics;
+
 public class usingCmdArgs {
     public static void main(String args[]){
         int sum = 0;

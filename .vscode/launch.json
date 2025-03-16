@@ -1,0 +1,66 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "singletonClass",
+            "request": "launch",
+            "mainClass": "OOPS.singletonClass",
+            "projectName": "Java_90585e75"
+        },
+        {
+            "type": "java",
+            "name": "child",
+            "request": "launch",
+            "mainClass": "OOPS.child",
+            "projectName": "Java_90585e75"
+        },
+        {
+            "type": "java",
+            "name": "innerClass",
+            "request": "launch",
+            "mainClass": "OOPS.innerClass",
+            "projectName": "Java_90585e75"
+        },
+        {
+            "type": "java",
+            "name": "multipleInterfaces",
+            "request": "launch",
+            "mainClass": "OOPS.multipleInterfaces",
+            "projectName": "Java_90585e75"
+        },
+        {
+            "type": "java",
+            "name": "Circle",
+            "request": "launch",
+            "mainClass": "OOPS.Circle",
+            "projectName": "Java_90585e75"
+        },
+        {
+            "type": "java",
+            "name": "child",
+            "request": "launch",
+            "mainClass": "basics.child",
+            "projectName": "Java_90585e75"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "Java_90585e75"
+        },
+        {
+            "type": "java",
+            "name": "gcd",
+            "request": "launch",
+            "mainClass": "basics.gcd",
+            "projectName": "Java_90585e75"
+        },
+        {
+            "type": "chrome",
+            "name": "http://C:\\Users\\sushi\\Documents\\Java\\Sem_4\\",
+            "request": "launch",
+            "url": "http://C:\\Users\\sushi\\Documents\\Java\\Sem_4\\"
+        }
+    ]
+}
